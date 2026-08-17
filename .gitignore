@@ -1,0 +1,10 @@
+# Ignore plugin code
+plugged/
+auto-pairs/
+
+# Ignore temporary swap, backup, and undo logs
+*.swp
+*.swo
+*~
+.netrwhist
+
